@@ -1,0 +1,169 @@
+body {
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+
+p {
+    color: rgb(177, 182, 186);
+}
+/*------------------------------------------- FIRST PAGE -------------------------------------------*/
+.firstPage {
+    background-image: url(images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.firstPageDiv {
+    width: 50%;
+    margin: auto;
+}
+
+.firstPageImage {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.firstPageHeading {
+    color: rgb(74, 81, 87);
+    font-weight: 600;
+}
+
+.firstPageButton01 {
+    border-radius: 25px;
+    padding: 10px 50px 10px 50px;
+    margin-right: 5px;
+    background-color: rgb(38, 187, 165);
+    border: none;
+    box-shadow: 0 5px 0.2px 0.2px rgb(47, 150, 129);
+}
+
+.firstPageButton02 {
+    border-radius: 25px;
+    padding: 10px 50px 10px 50px;
+    margin-left: 5px;
+    background-color: rgb(97, 116, 255);
+    border: none;
+    box-shadow: 0 5px 0.1px 0.1px rgb(89, 100, 190);;
+}
+
+.firstPageSubheading {
+    color: rgb(74, 81, 87);
+    font-weight: 600;
+    padding-top: 130px;
+}
+/*------------------------------------------- SECOND PAGE -------------------------------------------*/
+.secondPage {
+    margin-left: -280px;
+    padding-bottom: 100px;
+}
+.secondPageImage {
+    width: 110%;
+}
+.SecondPageDiv02 {
+    display: grid;
+    gap: 30px;
+    width: 100%;
+    padding-left: 150px;
+}
+
+.secondPageHeading {
+    color: rgb(74, 81, 87);
+    font-weight: 600;
+}
+/*------------------------------------------- THIRD PAGE -------------------------------------------*/
+.thirdPageDiv01 {
+    width: 45%;
+    margin: auto;
+    text-align: center;
+}
+
+.thirdPageHeading {
+    color: rgb(74, 81, 87);
+    font-weight: 600;
+}
+
+.thirdPageImage {
+    margin-left: 15%;
+}
+/*------------------------------------------- FORTH PAGE -------------------------------------------*/
+.forthPage {
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+.forthPageHeading {
+    color: rgb(74, 81, 87);
+    font-weight: 600;
+}
+
+.forthPageImage {
+    padding: 50px 0 50px 0;
+}
+
+.forthPageSubheading {
+    color: rgb(74, 81, 87);
+    font-weight: 600;
+}
+
+.forthPageDiv02 {
+    display: flex;
+    justify-content: center;
+}
+
+.forthPageitem02 {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.forthPageDiv03 {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0 50px 0;
+}
+/*------------------------------------------- FIFTH PAGE -------------------------------------------*/
+.fifthPageDiv01 {
+    text-align: center;
+    width: 45%;
+    margin: auto;
+}
+
+.fifthPageHeading {
+    color: rgb(74, 81, 87);
+    font-weight: 600;
+}
+
+.fifthPageButton01 {
+    border-radius: 25px;
+    padding: 10px 50px 10px 50px;
+    margin-right: 5px;
+    background-color: rgb(38, 187, 165);
+    border: none;
+    box-shadow: 0 5px 0.2px 0.2px rgb(47, 150, 129);
+}
+
+.fifthPageButton02 {
+    border-radius: 25px;
+    padding: 10px 50px 10px 50px;
+    margin-left: 5px;
+    background-color: rgb(97, 116, 255);
+    border: none;
+    box-shadow: 0 5px 0.1px 0.1px rgb(89, 100, 190);;
+}
+
+.fifthPageDiv02 {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 50px 20px 50px;
+    background-color: rgb(245, 246, 248);
+    margin-top: 100px;
+}
+
+.fifthPageLogo {
+    width: 50px;
+    height: 50px;
+}
+
+.fifthPageTwitterIcon {
+    padding: 0 10px 0 10px;
+}
